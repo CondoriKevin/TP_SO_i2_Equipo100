@@ -1,3 +1,12 @@
 Kevin Condori - ALFA
 Marcos Laporte - BETA
 Andrés Felipe Torres Caicedo - GAMMA
+Respuesta de la e)
+Para realizar el fork del repo perteneciente a gama, fuimos a su repositorio y le dimos en "fork", asi forkeamos su repo en los nuestro, luego para agregar nuestros datos clonamos el repo con "git clone" le agregamos los datos correspondientes
+luego lo subimos a nuestro repo que forkeamos de gama: git add .
+                                                                                                          git commit -m "comentario"
+		                                                                     git push origin main
+asi actualizamos nuestro repo, luego para actualizar el fork que le hicimos a gama
+Pirmero voy  a mi repositorio que forkee, desde la interfaz web de github y le doy click en el comando fetch upstream abre un menu de opciones, le doy click en compare y muestra los cambios que se hicieron en el repo original despues le doy click en donde dice fetch and merge. 
+Seguidamente abro la consola de git en el compu y escribo el comando git pull para actualizar el repo
+                                                                                                           
